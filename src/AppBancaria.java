@@ -56,7 +56,7 @@ public class AppBancaria {
                             """);
                     break;
                 default: //cuando no se cumplen las condiciones
-                    System.out.println("La opción no es válida.");
+                    System.out.println("La opción no es válida. Intente nuevamente.");
 
             }
 
